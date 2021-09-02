@@ -30,7 +30,10 @@
 
 
 5. 관련 자료
-김 총리 "오토바이 신고 일제조사…'도로 위 시한폭탄' 오명 벗어야" https://view.asiae.co.kr/article/2021090210500105987 
-오토바이 사고 막는다…이륜자동차 관리, 자동차 수준으로 강화 https://www.ajunews.com/view/20210902083724537
-선릉역 사거리, 오토바이 아슬아슬 주행은 오늘도 그대로였다 [르포]  https://www.mk.co.kr/news/society/view/2021/08/842282/
-YOLOv5 https://github.com/ultralytics/yolov5
+  1) 김 총리 "오토바이 신고 일제조사…'도로 위 시한폭탄' 오명 벗어야" https://view.asiae.co.kr/article/2021090210500105987 
+  2) 오토바이 사고 막는다…이륜자동차 관리, 자동차 수준으로 강화 https://www.ajunews.com/view/20210902083724537
+  3) 선릉역 사거리, 오토바이 아슬아슬 주행은 오늘도 그대로였다 [르포]  https://www.mk.co.kr/news/society/view/2021/08/842282/
+  4) YOLOv5 https://github.com/ultralytics/yolov5
+
+
+
